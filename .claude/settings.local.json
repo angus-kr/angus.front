@@ -29,7 +29,12 @@
       "Bash(git commit -m 'RGB ink fluid diffusion — SVG turbulence + displacement *)",
       "Bash(git commit -m 'Fireworks — 4 radial particle bursts \\(24 particles each\\) *)",
       "Bash(git commit -m 'Fireworks now loop infinitely — staggered 6s cycle *)",
-      "Bash(git commit *)"
+      "Bash(git commit *)",
+      "Bash(git reset *)",
+      "Bash(npx vercel *)",
+      "Bash(ls -la .vercel/)",
+      "Bash(ls .svelte-kit/output/)",
+      "Bash(ls build/)"
     ]
   }
 }
