@@ -7,7 +7,29 @@
       "Bash(npm run *)",
       "Bash(git init *)",
       "Bash(git remote *)",
-      "Bash(git add *)"
+      "Bash(git add *)",
+      "Bash(git commit -m 'Initial commit: mc.angus.kr tribute page *)",
+      "Bash(git push *)",
+      "Bash(git fetch *)",
+      "Bash(git pull *)",
+      "WebSearch",
+      "WebFetch(domain:encrypted-tbn0.gstatic.com)",
+      "Bash(npx vite *)",
+      "Bash(git commit -m 'Remove portrait, add portfolio-grade CSS effects *)",
+      "WebFetch(domain:namu.wiki)",
+      "WebFetch(domain:social.bobaedream.com)",
+      "WebFetch(domain:www.todayhumor.co.kr)",
+      "Bash(git commit -m 'Portfolio-grade CSS visual overhaul *)",
+      "Bash(git commit -m '응디시티 YouTube CSS spectacle — full rebuild *)",
+      "Bash(git commit -m 'ASS CITY rebrand: remove chat, 523K like, drop subscribe *)",
+      "Bash(git commit -m 'Add fog, searchlights, neon motel sign, hovercars *)",
+      "Bash(git commit -m 'Mouse effects + RAM RGB + parallax depth *)",
+      "Bash(git commit -m 'Full RGB apocalypse — blinding flashy over-the-top *)",
+      "Bash(git commit -m 'LED strip, sun halo, RGB stars, glowing trail, live badge cycle *)",
+      "Bash(git commit -m 'RGB ink fluid diffusion — SVG turbulence + displacement *)",
+      "Bash(git commit -m 'Fireworks — 4 radial particle bursts \\(24 particles each\\) *)",
+      "Bash(git commit -m 'Fireworks now loop infinitely — staggered 6s cycle *)",
+      "Bash(git commit *)"
     ]
   }
 }
